@@ -19,7 +19,6 @@ void factorize(int n)
 
 int main(int argc, char *argv[])
 {
-	int n = 99;
 	char *input_file;
 	FILE *fd;
 	char line[256];
